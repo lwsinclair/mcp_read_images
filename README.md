@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/catalystneuro-mcp-read-images-badge.png)](https://mseep.ai/app/catalystneuro-mcp-read-images)
+
 # MCP Read Images
 
 An MCP server for analyzing images using OpenRouter vision models. This server provides a simple interface to analyze images using various vision models like Claude-3.5-sonnet and Claude-3-opus through the OpenRouter API.
